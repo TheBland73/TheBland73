@@ -45,7 +45,7 @@ Frequently used tools: VS Code, Jupyter, CMake, and GitHub Actions.
 
 TheBland73's GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheBland73&show_icons=true&include_all_commits=true&count_private=true" />
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheBland73/TheBland73/output/github-contribution-grid-snake-dark.svg">
