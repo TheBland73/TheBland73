@@ -13,12 +13,13 @@ I am highly skilled at vibe coding.
 
 Daily code-agent stack: DeepSeek Harness, Claude Code, ChatGPT, Copilot, Kimi, 和 QWen。
 
-[![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=flat-square&logoColor=white)](https://www.deepseek.com/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+[![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-7C3AED?style=flat-square&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
-[![Kimi](https://img.shields.io/badge/Kimi-1F2937?style=flat-square&logoColor=white)](https://kimi.moonshot.cn/)
-[![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logoColor=white)](https://tongyi.aliyun.com/)
+[![Kimi](https://img.shields.io/badge/Kimi-1F2937?style=flat-square&logo=moonshotai&logoColor=white)](https://kimi.moonshot.cn/)
+[![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white)](https://tongyi.aliyun.com/)
 
 ## Daily Practice
 
