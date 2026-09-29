@@ -42,7 +42,8 @@ Core languages: **Python** 和 **C / C++**, with Git, Linux, and Markdown when u
 
 Frequently used tools: VS Code, Pytorch, CMake, GitHub Actions, Godot, Obsidian, DeepSeek, and Claude Code.
 
-<img src="https://skillicons.dev/icons?i=vscode,Pytorch,cmake,githubactions,godot,obsidian,claude" />
+<img src="https://skillicons.dev/icons?i=vscode,pytorch,cmake,githubactions,godot,obsidian" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude" />
 
 ## GitHub Stats
 
