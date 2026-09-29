@@ -1,6 +1,6 @@
 # Hi 👋, I'm TheBland73
 
-## Algorithm enthusiast · LeetCode grinder · Python & C/C++ learner
+## Artificial Inteliigence learner · Algorithm enthusiast · DeepSeek lover · Python & C/C++ learner 
 
 - 🎓 Student, turning problem-solving into a long-term habit.
 - 🛠️ Maintainer of [TheBland-Codes](https://github.com/TheBland73/TheBland-Codes); my algorithm practice repository.
@@ -11,12 +11,14 @@
 
 I am highly skilled at vibe coding.
 
-Daily code-agent stack: DeepSeek, Claude Code, ChatGPT, 和 Copilot。
+Daily code-agent stack: DeepSeek Harness, Claude Code, ChatGPT, Copilot, Kimi, 和 QWen。
 
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)](https://www.deepseek.com/)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
-[![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=flat-square&logoColor=white)](https://www.deepseek.com/)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)
+[![Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![Kimi](https://img.shields.io/badge/Kimi-1F2937?style=flat-square&logoColor=white)](https://kimi.moonshot.cn/)
+[![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logoColor=white)](https://tongyi.aliyun.com/)
 
 ## Daily Practice
 
