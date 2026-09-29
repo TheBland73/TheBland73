@@ -14,7 +14,7 @@ I am highly skilled at vibe coding.
 Daily code-agent stack: DeepSeek Harness, Claude Code, ChatGPT, Copilot, Kimi, 和 QWen。
 
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
-[![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-7C3AED?style=flat-square&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+[![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-181717?style=flat-square&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
