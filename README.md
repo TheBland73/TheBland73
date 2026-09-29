@@ -40,12 +40,9 @@ Core languages: **Python** 和 **C / C++**, with Git, Linux, and Markdown when u
 
 <img src="https://skillicons.dev/icons?i=py,c,cpp,git,linux,md" />
 
-Frequently used tools: VS Code, Jupyter, CMake, GitHub Actions, Godot, Obsidian, DeepSeek, and Claude Code.
+Frequently used tools: VS Code, Pytorch, CMake, GitHub Actions, Godot, Obsidian, DeepSeek, and Claude Code.
 
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,cmake,githubactions,godot,obsidian" />
-
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
+<img src="https://skillicons.dev/icons?i=vscode,Pytorch,cmake,githubactions,godot,obsidian,claude" />
 
 ## GitHub Stats
 
