@@ -40,7 +40,7 @@ Core languages: **Python** 和 **C / C++**, with Git, Linux, and Markdown when u
 
 <img src="https://skillicons.dev/icons?i=py,c,cpp,git,linux,md" />
 
-Frequently used tools: VS Code, Pytorch, CMake, GitHub Actions, Godot, Obsidian, DeepSeek, and Claude Code.
+Frequently used tools: VS Code, Pytorch, Docker, CMake, GitHub Actions, Godot, Obsidian, DeepSeek, and Claude Code.
 
 <img src="https://skillicons.dev/icons?i=vscode,pytorch,cmake,githubactions,godot,obsidian" /><img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt" />
 
